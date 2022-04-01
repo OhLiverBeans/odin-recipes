@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first real project on the odin project website. I have completed several mini assignments, but this one is the first big one. I will be using my knowledge of html, git and github to create a web site of recipes. The website will contain multiple web pages and make use of links, images, and text. It will demonstrate of the html skills i have acquired thusfar in this section of TOP.
